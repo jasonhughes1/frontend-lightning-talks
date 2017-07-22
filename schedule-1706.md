@@ -12,7 +12,7 @@
 - Erik Ingvalson:
 - Francy Lang:
 - Jacob Boutin:
-- Jason Hughes:
+- Jason Hughes: React - What and Why?
 - Jennifer Woodson:
 - John Michael Boudreaux:
 - Jorge Perez Garcia:
